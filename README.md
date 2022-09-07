@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
+- Solution URL: [here](https://bmcdavitt.github.io/remThreeColPreviewCard/)
 - Live Site URL: [here](https://github.com/BMcdavitt/remThreeColPreviewCard/tree/master)
 
 ## My process
